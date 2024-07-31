@@ -32,7 +32,7 @@
 			- Equalist: You are equally good at everything (1x multiplier for all dmg)
 			- Realist: You can customize how much damage you per dmg type (you can do a lot of fire dmg but no water dmg)
 			- Specialist: You can be the best at a certain thing (fighting with a certain attribute) but are absolutely shit at everything else (you can do big DPS but are permanently capped at 5 stamina, etc.)
-	- Remnant 2 like stats, where you start of with 4 main stats (strength, intelligence, agility and stamina) and you can gain different stats (via quests, achievements, etc.) and maybe combine them together to get better types of stats
+	- Remnant 2 like stats, where you start of with 4 main stats (strength, intelligence, agility and stamina) and you can gain different stats (via quests, achievements, etc.) and maybe combine them together to get better types of stats (maybe available by completing quests)
 
 - Combat is based on attack, defense and dodges
 	- Doing any action requires stamina (attacking, depending, dodging, running, foraging, smithing, cooking, etc.)
@@ -47,3 +47,6 @@
 		- Dark (Very Rare)
 	- Uses Shield of Physical or Magical type to reduce damage while having some restriction on the user (slow movement while shielding, mana usage, stun if shield breaks, etc.)
 	- Dodging which will completely negate % damage (depends on how successful the dodge is) which also giving you a counter attack option in some cases (depends on various things, for example a high difference in agility stat between the attacker and defender)
+	- Boss monsters’ attack pattern changes depending upon the number of players that is in combat around it. Its health and damage output scales along with the number of players.
+	- All Weapons have a normal attack combo but for some weapons after gaining enough proficiency you can unlock different combos. You gain proficiency by dealing damage to enemies with the weapon.
+	- Magic is of 2 types: Spell-Circle magic and Incantation magic. Spell-Circle magic is powerful magic but it requires you to stand till for a while. Incantation magic just straight up sends the spell out of your weapon.
