@@ -1,6 +1,6 @@
-Name: Heaven's Lie (to be discussed)
+# Name: Heaven's Lie (to be discussed)
 
-# Description
+## Description
 
 - 3rd Person Elden Ring Style RPG experience
 - Multiplayer
@@ -11,7 +11,7 @@ Name: Heaven's Lie (to be discussed)
 - Combat inspired from Wuthering Waves
 - Only PC since main element of this game is the Ultra interactive Quests which will be hard for other system user to type
 
-# Game Elements
+## Game Elements
 
 - AI NPC System
 - Item System
@@ -20,7 +20,7 @@ Name: Heaven's Lie (to be discussed)
 - Combat System
 - Quest System
 
-# Game Structure
+## Game Structure
 
 - Classic Medieval RPG World
 
