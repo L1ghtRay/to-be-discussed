@@ -1,4 +1,4 @@
-# Name: Heaven's Lie (to be discussed)
+# Heaven's Lie (to be discussed)
 
 ## Description
 
