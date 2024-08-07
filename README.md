@@ -1,4 +1,4 @@
-# Heaven's Lie (to be discussed)
+# Heaven’s Lie
 
 ## Description
 
@@ -52,3 +52,11 @@
 	- Boss monsters’ attack pattern changes depending upon the number of players that is in combat around it. Its health and damage output scales along with the number of players.
 	- All Weapons have a normal attack combo but for some weapons after gaining enough proficiency you can unlock different combos. You gain proficiency by dealing damage to enemies with the weapon.
 	- Magic is of 2 types: Spell-Circle magic and Incantation magic. Spell-Circle magic is powerful magic but it requires you to stand till for a while. Incantation magic just straight up sends the spell out of your weapon.
+
+# Technical Details
+
+Game will be made in C++ using most probably CMake Infrastructure. The rendering engine will be made using OpenGL.
+
+# Updates
+
+- Added Ultra Rudimentary Game Engine (inputting w, a, s or d moves the 1 around the field of zeroes)
