@@ -1,3 +1,5 @@
+// If you spam enter which spamming w,a,s,d it feels like the 'O' is moving
+
 #include <iostream>
 #include <string>
 
@@ -9,13 +11,19 @@ int main() {
 
     while (1) {
         
+        std::cout << "|----------------------|\n";
         for (int i = 0; i < 11; i++) {
-            std::cout << "[ ";
+            std::cout << "|";
             for (int j = 0; j < 11; j++) {
-                std::cout << map[i][j] << " ";
+                if (map[i][j] == 1) {
+                    std::cout << "O ";
+                } else {
+                    std::cout << "  ";
+                }
             }
-            std::cout << "]\n";
+            std::cout << "|\n";
         }
+        std::cout << "|----------------------|\n";
 
         std::cin >> x;
         system("cls");
